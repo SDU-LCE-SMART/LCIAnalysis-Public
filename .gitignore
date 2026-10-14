@@ -1,0 +1,24 @@
+# Never publish code or private build artifacts in this documentation repository
+*.py
+*.pyc
+__pycache__/
+*.spec
+*.exe
+*.msi
+*.iss
+*.pfx
+*.pem
+*.key
+*.db
+*.sqlite*
+*.xlsx
+*.xls
+*.csv
+*.zip
+.env
+.venv/
+build/
+dist/
+admin/
+private/
+secrets/
