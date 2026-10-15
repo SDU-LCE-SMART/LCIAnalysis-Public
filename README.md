@@ -368,3 +368,18 @@ LCIAnalysis seeks to provide this missing connection.
 ---
 
 **LCIAnalysis — Connecting process engineering, scientific data management and life cycle inventory development.**
+
+
+<!-- DOI-SECTION-START -->
+## DOI and Citation
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23385488.svg)](https://doi.org/10.5281/zenodo.23385488)
+
+**Version:** 2.0.0-docs
+
+**Archive scope:** Documentation-only release
+
+**Zenodo DOI:** https://doi.org/10.5281/zenodo.23385488
+
+Please cite the archived documentation using the Zenodo DOI above. The public repository does not contain the proprietary application source code.
+<!-- DOI-SECTION-END -->
