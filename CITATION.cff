@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use LCIAnalysis, please cite this documentation release."
+title: "LCIAnalysis"
+type: software
+version: "2.0.0-docs"
+doi: "10.5281/zenodo.23385488"
+authors:
+  - family-names: "Khoshnevisan"
+    given-names: "Benyamin"
+    orcid: "https://orcid.org/0000-0003-0236-5970"
+    affiliation: "University of Southern Denmark"
+repository-code: "https://github.com/SDU-LCE-SMART/LCIAnalysis-Public"
+url: "https://doi.org/10.5281/zenodo.23385488"
+abstract: "Documentation release for LCIAnalysis, a scientific desktop application for life cycle inventory development, process modeling, mass and energy balances, and integrated scientific data management. The proprietary application source code and installer are not included."
